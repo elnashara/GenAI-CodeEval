@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,0.0036634,0.003992622,0.0057573,,
+10000,human solution,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,0.0342467,0.037707406,0.051,,
+100000,human solution,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,1.1863484,1.2286353,1.3007044,,

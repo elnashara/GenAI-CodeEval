@@ -1,0 +1,183 @@
+serial_number,Category,ProblemType,problem
+1,easy,Finding the sum of two numbers,Write a program that takes two integers as input and calculates their sum.
+2,easy,Finding the sum of two numbers,Implement a function that returns the sum of two floating-point numbers.
+3,easy,Finding the sum of two numbers,"Write a function that takes two strings containing numeric values, converts them to integers, and returns their sum."
+4,easy,Finding the sum of two numbers,Develop an algorithm to find the sum of two binary numbers represented as strings.
+5,easy,Finding the sum of two numbers,Create a function that finds the sum of all odd numbers between two given integers (inclusive).
+6,easy,Finding the sum of two numbers,Write an algorithm to find the sum of all prime numbers between two given integers (inclusive).
+7,easy,Calculating the average of a list of numbers,Write a program to calculate the average of a list of numbers using a for loop.
+8,easy,Calculating the average of a list of numbers,Implement a function that takes in a list of numbers and returns the average using recursion.
+9,easy,Calculating the average of a list of numbers,Create a program that calculates the average of a list of numbers without using any built-in functions or libraries.
+10,easy,Calculating the average of a list of numbers,"Design an algorithm to find the average of a list of numbers, handling cases where the list is empty or contains invalid entries."
+11,easy,Calculating the average of a list of numbers,"Develop a program that calculates the weighted average of a list of numbers, given their respective weights."
+12,easy,Calculating the average of a list of numbers,Write a function that finds the median (middle value) of a list of numbers and then calculates the average of all values greater than or equal to the median.
+13,easy,Calculating the average of a list of numbers,Implement an algorithm to calculate the moving average (average over a sliding window) for each element in a given list.
+14,easy,Calculating the average of a list of numbers,"Design an efficient algorithm to calculate the running average (average up to current position) for each element in an array, without modifying the original array."
+15,easy,Checking if a number is prime,Write a program to check if a given number is prime or not.
+16,easy,Checking if a number is prime,Implement a function that returns the smallest prime number greater than a given input.
+17,easy,Checking if a number is prime,Create a program that prints all the prime numbers between two given numbers.
+18,easy,Checking if a number is prime,Develop an algorithm to find the sum of all prime numbers within a given range.
+19,easy,Checking if a number is prime,Design a function to calculate the largest prime factor of a given number.
+20,easy,Checking if a number is prime,Write code to determine if a given number is semiprime (a product of two prime numbers).
+21,easy,Checking if a number is prime,Implement an efficient algorithm to generate the nth prime number.
+22,easy,Checking if a number is prime,Create a program that counts the total number of prime numbers less than or equal to a given input.
+23,easy,Checking if a number is prime,Develop an algorithm to find the next twin prime pair after a given number (two primes with only one even number between them).
+24,easy,Checking if a number is prime,Write code to determine if two given numbers are coprime (their greatest common divisor is 1).
+25,easy,Reversing a string,Write a program to reverse a given string without using any built-in functions.
+26,easy,Reversing a string,Implement a function that takes a string as input and returns the reversed string.
+27,easy,Reversing a string,Create an algorithm to reverse the words in a sentence while keeping the word order intact.
+28,easy,Reversing a string,Design a program to check if a given string is a palindrome (reads the same forwards and backwards).
+29,easy,Reversing a string,"Develop an algorithm to reverse only the vowels in a given string, while keeping consonants in their original positions."
+30,easy,Reversing a string,"Write code to reverse the case of each character in a given string (e.g., 'Hello World' becomes 'hELLO wORLD')."
+31,easy,Reversing a string,"Implement a function that reverses every other word in a sentence, starting from the second word."
+32,easy,Reversing a string,"Design an algorithm that reverses only the characters within parentheses in a given string, while leaving other characters unchanged."
+33,easy,Reversing a string,"Create code to reverse each individual word in a sentence, while preserving whitespace and punctuation."
+34,easy,Reversing a string,"Develop an efficient algorithm to reverse large strings (e.g., strings with millions of characters) without causing memory or performance issues."
+35,easy,Counting the occurrence of a character in a string,Write a function that takes a string and a character as input and returns the number of occurrences of that character in the string.
+36,easy,Counting the occurrence of a character in a string,"Given a string, find the most frequent character(s) and their count(s)."
+37,easy,Counting the occurrence of a character in a string,Write a program to count the number of vowels in a given string.
+38,easy,Counting the occurrence of a character in a string,Implement a function that counts the number of uppercase letters in a string.
+39,easy,Counting the occurrence of a character in a string,Create an algorithm to count the occurrences of each word in a sentence.
+40,easy,Counting the occurrence of a character in a string,Write a program to find the longest substring without repeating characters and return its length.
+41,easy,Counting the occurrence of a character in a string,"Given two strings, write an algorithm to check if they are anagrams (contain exactly the same characters with the same frequency)."
+42,easy,Counting the occurrence of a character in a string,"Implement a function to count the number of special characters (e.g., punctuation marks) in a given string."
+43,easy,Counting the occurrence of a character in a string,Write an algorithm to count the number of words in a sentence.
+44,easy,Counting the occurrence of a character in a string,Create a program that counts the occurrences of each unique word in a paragraph.
+45,easy,Finding the maximum or minimum value in an array,Find the maximum element in an array.
+46,easy,Finding the maximum or minimum value in an array,Find the minimum element in an array.
+47,easy,Finding the maximum or minimum value in an array,Find the second largest element in an array.
+48,easy,Finding the maximum or minimum value in an array,Find the kth smallest element in an array.
+49,easy,Finding the maximum or minimum value in an array,Find the sum of all elements in an array.
+50,easy,Finding the maximum or minimum value in an array,Find the average value of elements in an array.
+51,easy,Finding the maximum or minimum value in an array,Determine if all elements in an array are positive.
+52,easy,Finding the maximum or minimum value in an array,Determine if any element in an array is negative.
+53,easy,Finding the maximum or minimum value in an array,Calculate the product of all elements in an array.
+54,easy,Finding the maximum or minimum value in an array,Check if two arrays have the same maximum value.
+55,easy,Sorting an array in ascending or descending order,Sort an array of integers in ascending order using the bubble sort algorithm.
+56,easy,Sorting an array in ascending or descending order,Implement the selection sort algorithm to sort an array of strings in descending order.
+57,easy,Sorting an array in ascending or descending order,Write a program to sort an array of floating-point numbers in ascending order using the insertion sort algorithm.
+58,easy,Sorting an array in ascending or descending order,Implement the merge sort algorithm to sort an array of characters in descending order.
+59,easy,Sorting an array in ascending or descending order,Sort an array of integers in ascending order using the quicksort algorithm.
+60,easy,Sorting an array in ascending or descending order,Write a program to sort an array of strings in descending order using the heap sort algorithm.
+61,easy,Sorting an array in ascending or descending order,Implement the radix sort algorithm to sort an array of positive integers in ascending order.
+62,easy,Sorting an array in ascending or descending order,Sort an array of floating-point numbers in descending order using the shell sort algorithm.
+63,easy,Sorting an array in ascending or descending order,Write a program to sort an array of characters in ascending order using the counting sort algorithm.
+64,easy,Checking if two strings are anagrams,Check if two strings are anagrams by comparing the frequency of characters.
+65,easy,Checking if two strings are anagrams,Determine if two strings are anagrams using a hash table.
+66,easy,Checking if two strings are anagrams,"Implement a function to check if two strings are anagrams, ignoring spaces and capitalization."
+67,easy,Checking if two strings are anagrams,Write a program to find all pairs of anagram words in a given list of strings.
+68,easy,Checking if two strings are anagrams,"Create a function to check if two strings are anagrams, considering only alphanumeric characters."
+69,easy,Checking if two strings are anagrams,"Design an algorithm to check if two strings are anagrams, optimizing for time complexity."
+70,easy,Checking if two strings are anagrams,Develop a recursive function to determine if two strings are anagrams.
+71,easy,Checking if two strings are anagrams,Implement a method to check if two strings are anagrams without using any additional data structures.
+72,easy,Checking if two strings are anagrams,Write a program that checks whether rearranging the letters of one string can form another string (anagram or not).
+73,easy,Checking if two strings are anagrams,Solve the problem of checking if two strings are anagrams using sorting algorithms.
+74,easy,Converting decimal numbers to binary or vice versa,Convert the decimal number 25 to binary.
+75,easy,Converting decimal numbers to binary or vice versa,Convert the binary number 1101 to decimal.
+76,easy,Converting decimal numbers to binary or vice versa,Convert the decimal number 42 to binary using repeated division by 2.
+77,easy,Converting decimal numbers to binary or vice versa,Convert the binary number 1010 to decimal using positional notation.
+78,easy,Converting decimal numbers to binary or vice versa,Convert the decimal number 63 to binary using bitwise operations.
+79,easy,Converting decimal numbers to binary or vice versa,Convert the binary number 111001 to decimal using the weighted sum method.
+80,easy,Converting decimal numbers to binary or vice versa,Convert the decimal number 128 to binary using powers of 2.
+81,easy,Converting decimal numbers to binary or vice versa,"Given a positive integer, write an algorithm to convert it from decimal to binary representation."
+82,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Implement a function to add two numbers and return the result.
+83,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Create a program that subtracts one number from another and displays the output.
+84,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Write a function to multiply two numbers without using the multiplication operator.
+85,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Develop a program that divides one number by another and returns the quotient.
+86,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)","Implement a calculator program that can perform addition, subtraction, multiplication, and division based on user input."
+87,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Create a function that calculates the factorial of a given number using recursion.
+88,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Write an algorithm to find the square root of a given number using Newton's method.
+89,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Develop a program that checks if a given number is prime or not.
+90,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)","Implement a function to calculate the power of one number raised to another (e.g., 2^3 = 8)."
+91,easy,"Implementing basic arithmetic operations (addition, subtraction, multiplication, division)",Create a program that converts decimal numbers into binary representation.
+92,easy,Checking if a given year is a leap year,Write a program to check if a given year is a leap year or not.
+93,easy,Checking if a given year is a leap year,"Implement a function that takes an integer as input and returns True if it represents a leap year, and False otherwise."
+94,easy,Checking if a given year is a leap year,Create a program that prompts the user to enter a year and then determines whether it is a leap year or not.
+95,easy,Checking if a given year is a leap year,"Design an algorithm that checks if a given year is divisible by 4, but not divisible by 100 unless it is also divisible by 400, to determine if it's a leap year."
+96,easy,Checking if a given year is a leap year,Develop a function that takes in a year as input and prints out whether it is a leap year or not using the Gregorian calendar rules.
+97,easy,Checking if a given year is a leap year,"Write code to validate user input for the year, ensuring it is within an acceptable range before checking if it's a leap year."
+98,easy,Checking if a given year is a leap year,Create an algorithm that calculates the number of leap years between two given years (inclusive).
+99,easy,Checking if a given year is a leap year,Build a program that generates all the leap years between two specified years provided by the user.
+100,easy,Determining whether a number is even or odd,Write a program to determine whether a given number is even or odd.
+101,easy,Determining whether a number is even or odd,"Implement a function that takes an integer as input and returns true if the number is even, and false otherwise."
+102,easy,Determining whether a number is even or odd,Create a program that prompts the user to enter a number and displays whether it is even or odd.
+103,easy,Determining whether a number is even or odd,Write a function to check if a given number is divisible by 2 without using the modulo operator (%).
+104,easy,Determining whether a number is even or odd,Develop an algorithm that determines whether a number is even or odd using bitwise operations.
+105,easy,Determining whether a number is even or odd,Implement a recursive function to determine whether a given number is even or odd.
+106,easy,Determining whether a number is even or odd,Create an application that generates random numbers and checks if each one is even or odd.
+107,easy,Determining whether a number is even or odd,Develop an algorithm to efficiently determine whether multiple numbers in an array are even or odd.
+108,easy,Counting the number of vowels in a string,"Write a function that counts the number of vowels (a, e, i, o, u) in a given string."
+109,easy,Counting the number of vowels in a string,Create a program that takes user input and returns the number of vowels in the input string.
+110,easy,Counting the number of vowels in a string,Implement a function that counts the number of vowels in a string using recursion.
+111,easy,Counting the number of vowels in a string,Write a function to count the number of vowels in a string without using any built-in string methods or regular expressions.
+112,easy,Counting the number of vowels in a string,Design an algorithm to count the number of occurrences of each vowel in a given string.
+113,easy,Counting the number of vowels in a string,Create a program that calculates the percentage of vowels in a given sentence or paragraph.
+114,easy,Counting the number of vowels in a string,Implement a function that removes all the vowels from a given string and returns the modified string.
+115,easy,Counting the number of vowels in a string,Develop an algorithm to find the longest substring within a given string that contains only vowels.
+116,easy,Calculating the factorial of a number,Write a function to calculate the factorial of a given positive integer.
+117,easy,Calculating the factorial of a number,Implement an iterative algorithm to find the factorial of a number.
+118,easy,Calculating the factorial of a number,Create a recursive function to calculate the factorial of a non-negative integer.
+119,easy,Calculating the factorial of a number,Write a program that takes user input and calculates the factorial of the entered number.
+120,easy,Calculating the factorial of a number,Design an algorithm to efficiently calculate large factorials without overflowing the data type.
+121,easy,Calculating the factorial of a number,"Develop a program that calculates and displays all factorials from 1 to n, where n is provided by the user."
+122,easy,Calculating the factorial of a number,Implement a function that returns the number of trailing zeros in the factorial of a given number.
+123,easy,Calculating the factorial of a number,Create an algorithm to find the largest power of 2 that divides exactly into the factorial of a given number.
+124,easy,Calculating the factorial of a number,"Write a program that generates random numbers and calculates their factorials, displaying both numbers and their corresponding factorials."
+125,easy,Calculating the factorial of a number,Design an efficient algorithm to calculate factorials using memoization for improved performance.
+126,easy,Implementing basic data structures like stacks or queues,Implement a stack data structure using an array in a programming language of your choice.
+127,easy,Implementing basic data structures like stacks or queues,Create a queue data structure using linked lists in Python.
+128,easy,Implementing basic data structures like stacks or queues,Write a program to reverse the elements of a stack without using any additional data structures.
+129,easy,Implementing basic data structures like stacks or queues,Implement a stack that supports finding the minimum element in constant time (O(1)).
+130,easy,Implementing basic data structures like stacks or queues,"Design and implement a circular queue with operations like enqueue, dequeue, and checking if it is empty or full."
+131,easy,Implementing basic data structures like stacks or queues,Write a program to check if a given string of parentheses is balanced using a stack.
+132,easy,Implementing basic data structures like stacks or queues,Implement a queue using two stacks such that enqueue and dequeue operations are efficient (O(1) amortized time complexity).
+133,easy,Implementing basic data structures like stacks or queues,Create a program to convert an infix expression to postfix notation using stacks.
+134,easy,Implementing basic data structures like stacks or queues,"Implement a stack-based calculator that can evaluate simple arithmetic expressions (+, -, *, /) involving integers."
+135,easy,Searching for an element in an array or list,"Given an array of integers, write a program to find the index of a specific element."
+136,easy,Searching for an element in an array or list,Write a function to check if a given element exists in a sorted array using binary search.
+137,easy,Searching for an element in an array or list,Implement linear search algorithm to find the first occurrence of a character in a string.
+138,easy,Searching for an element in an array or list,Create a program that finds the maximum and minimum elements in an array using linear search.
+139,easy,Searching for an element in an array or list,Write a recursive function to search for an element in an unsorted array.
+140,easy,Searching for an element in an array or list,Implement interpolation search algorithm to find the index of an element in a sorted array.
+141,easy,Searching for an element in an array or list,"Given two arrays, write a program to find the common elements between them using linear search."
+142,easy,Searching for an element in an array or list,Create a function that returns the frequency count of a specific element in an array using linear search.
+143,easy,Searching for an element in an array or list,Write a program to check if two arrays have any common elements using linear search.
+144,easy,Searching for an element in an array or list,Implement jump search algorithm to find the position of an element in a sorted array.
+145,easy,Checking if a given string is palindrome or not ,Write a function to check if a given string is a palindrome.
+146,easy,Checking if a given string is palindrome or not ,Implement a program that takes user input and checks if the input string is a palindrome.
+147,easy,Checking if a given string is palindrome or not ,Create a function that returns the reverse of a given string and then checks if it is equal to the original string.
+148,easy,Checking if a given string is palindrome or not ,"Design an algorithm to determine if a given sentence is a palindrome, ignoring spaces and punctuation."
+149,easy,Checking if a given string is palindrome or not ,Develop a program that checks if all words in a given sentence are palindromes.
+150,easy,Checking if a given string is palindrome or not ,Write a recursive function to check if a given string is a palindrome.
+151,easy,Checking if a given string is palindrome or not ,Implement an efficient algorithm to check if two strings are anagrams of each other and also palindromes.
+152,easy,Checking if a given string is palindrome or not ,Create a program that reads multiple strings from user input and determines which ones are palindromes.
+153,easy,Checking if a given string is palindrome or not ,Design an algorithm to check if two given strings are rotations of each other and also palindromes.
+154,easy,Generating Fibonacci series up to a given number ,Write a program to generate and print the Fibonacci series up to a given number.
+155,easy,Generating Fibonacci series up to a given number ,Implement a function to calculate the nth term of the Fibonacci series.
+156,easy,Generating Fibonacci series up to a given number ,Create a program that prints the sum of all even numbers in the Fibonacci series up to a given number.
+157,easy,Generating Fibonacci series up to a given number ,Write an algorithm to find the largest Fibonacci number less than or equal to a given number.
+158,easy,Generating Fibonacci series up to a given number ,Develop a recursive function to generate the Fibonacci series up to a given number.
+159,easy,Generating Fibonacci series up to a given number ,Design a program that checks if a given number is present in the Fibonacci series.
+160,easy,Generating Fibonacci series up to a given number ,Implement an iterative solution that calculates and prints all prime numbers in the Fibonacci series up to a given number.
+161,easy,Generating Fibonacci series up to a given number ,Create an algorithm that finds the average of all numbers in the Fibonacci series up to a given number.
+162,easy,Generating Fibonacci series up to a given number ,Develop a program that calculates and prints the product of all odd numbers in the Fibonacci series up to a given number.
+163,easy,Generating Fibonacci series up to a given number ,Write code that generates and prints only unique numbers in the Fibonacci series up to a given number.
+164,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Convert a given temperature from Celsius to Fahrenheit.
+165,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Convert a given temperature from Fahrenheit to Celsius.
+166,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Write a program to convert a range of temperatures from Celsius to Fahrenheit.
+167,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Write a program to convert a range of temperatures from Fahrenheit to Celsius.
+168,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Calculate the average temperature in Celsius for a given set of temperatures in Fahrenheit.
+169,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Calculate the average temperature in Fahrenheit for a given set of temperatures in Celsius.
+170,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Determine the highest temperature in Celsius from a list of temperatures in Fahrenheit.
+171,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Determine the lowest temperature in Fahrenheit from a list of temperatures in Celsius.
+172,easy,Converting temperature from Celsius to Fahrenheit or vice versa ,Convert a user inputted temperature from Celsius to Fahrenheit and display the result with appropriate units.
+173,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Implement bubble sort algorithm to sort an array of integers in ascending order.
+174,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Write a program to implement selection sort algorithm to sort an array of strings in lexicographical order.
+175,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search","Create a function that performs linear search on an array and returns the index of the target element if found, or -1 if not found."
+176,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Implement bubble sort algorithm to sort a linked list in ascending order.
+177,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Write a program to implement selection sort algorithm for sorting an array of floating-point numbers in descending order.
+178,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search","Create a function that performs linear search on a matrix and returns the coordinates of the target element if found, or (-1, -1) if not found."
+179,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Implement bubble sort algorithm to sort an array of custom objects based on a specific attribute.
+180,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Write a program to implement selection sort algorithm for sorting an array of characters in reverse alphabetical order.
+181,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Create a function that performs linear search on a string and returns the count of occurrences of the target character.
+182,easy,"Implementing simple algorithms like bubble sort, selection sort, or linear search",Implement bubble sort algorithm with optimized version using flag variable to avoid unnecessary iterations.

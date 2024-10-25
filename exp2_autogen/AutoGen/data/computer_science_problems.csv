@@ -1,0 +1,101 @@
+seq,category,problem_type,problem
+1,easy,"Finding the sum 
+of two numbers",Write a program that takes two integers as input and calculates their sum.
+2,easy,"Finding the sum 
+of two numbers",Implement a function that returns the sum of two floating-point numbers.
+3,easy,"Finding the sum 
+of two numbers","Write a function that takes two strings containing numeric values, converts them to integers, and returns their sum."
+4,easy,"Finding the sum 
+of two numbers",Develop an algorithm to find the sum of two binary numbers represented as strings.
+5,easy,"Finding the sum 
+of two numbers",Create a function that finds the sum of all odd numbers between two given integers (inclusive).
+6,easy,"Finding the sum 
+of two numbers",Write an algorithm to find the sum of all prime numbers between two given integers (inclusive).
+7,easy,"Calculating 
+the average of 
+a list of numbers",Write a program to calculate the average of a list of numbers using a for loop.
+8,easy,"Calculating 
+the average of 
+a list of numbers",Implement a function that takes in a list of numbers and returns the average using recursion.
+9,easy,"Calculating 
+the average of 
+a list of numbers",Create a program that calculates the average of a list of numbers without using any built-in functions or libraries.
+10,easy,"Calculating 
+the average of 
+a list of numbers","Design an algorithm to find the average of a list of numbers, handling cases where the list is empty or contains invalid entries."
+11,easy,"Calculating 
+the average of 
+a list of numbers","Develop a program that calculates the weighted average of a list of numbers, given their respective weights."
+12,easy,"Calculating 
+the average of 
+a list of numbers",Write a function that finds the median (middle value) of a list of numbers and then calculates the average of all values greater than or equal to the median.
+13,easy,"Calculating 
+the average of 
+a list of numbers",Implement an algorithm to calculate the moving average (average over a sliding window) for each element in a given list.
+14,easy,"Calculating 
+the average of 
+a list of numbers","Design an efficient algorithm to calculate the running average (average up to current position) for each element in an array, without modifying the original array."
+15,easy,Checking if a number is prime,Write a program to check if a given number is prime or not.
+16,easy,Checking if a number is prime,Implement a function that returns the smallest prime number greater than a given input.
+17,easy,Checking if a number is prime,Create a program that prints all the prime numbers between two given numbers.
+18,easy,Checking if a number is prime,Develop an algorithm to find the sum of all prime numbers within a given range.
+19,easy,Checking if a number is prime,Design a function to calculate the largest prime factor of a given number.
+20,easy,Checking if a number is prime,Write code to determine if a given number is semiprime (a product of two prime numbers).
+21,medium,"Sorting 
+algorithms",Implement the Bubble Sort algorithm and analyze its time complexity.
+22,medium,"Sorting 
+algorithms",Write a program to implement the Insertion Sort algorithm.
+23,medium,"Sorting 
+algorithms",Design an algorithm to sort an array of strings in lexicographical order using any suitable sorting technique.
+24,medium,"Sorting 
+algorithms",Implement the Selection Sort algorithm and discuss its advantages and disadvantages compared to other sorting algorithms.
+25,medium,"Sorting 
+algorithms",Develop an algorithm to sort a linked list using the Merge Sort technique.
+26,medium,"Sorting 
+algorithms",Write a program to implement the Radix Sort algorithm for sorting positive integers in ascending order.
+27,medium,"Sorting 
+algorithms","Design an efficient algorithm to sort an array with many duplicate elements, such as counting sort or bucket sort."
+28,medium,"Sorting 
+algorithms",Implement the Heap Sort algorithm and evaluate its time complexity in both best-case and worst-case scenarios.
+29,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Find the shortest path between two nodes in an undirected graph using breadth-first search.
+30,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Determine if a directed graph contains a cycle using depth-first search.
+31,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Implement Dijkstra's algorithm to find the shortest path from a single source node to all other nodes in a weighted graph.
+32,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Check if a given undirected graph is connected or not using depth-first search.
+33,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Perform topological sorting on a directed acyclic graph using depth-first search.
+34,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Find all possible paths between two nodes in an undirected graph using depth-first search.
+35,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Detect and print all cycles in an undirected graph using depth-first search.
+36,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Determine if there exists a path between two nodes in an undirected graph using breadth-first search.
+37,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)","Implement Kruskal's algorithm to find the minimum spanning tree of a weighted, connected graph."
+38,medium,"Graph traversal 
+(depth-first search, 
+breadth-first search)",Count the number of connected components in an undirected graph using depth-first search.
+39,hard,Binary Search,Implement a binary search algorithm to find the index of a specific element in a sorted array.
+40,hard,Binary Search,"Given a sorted array, find the first occurrence of a target element using binary search."
+41,hard,Binary Search,Find the last occurrence of a target element in a sorted array using binary search.
+42,hard,Binary Search,Implement an iterative version of the binary search algorithm to find the index of an element in a sorted array.
+43,hard,Binary Search,"Given a rotated sorted array, find the minimum element using binary search."
+44,hard,Binary Search,Implement binary search on a two-dimensional matrix to find if a target element exists.
+45,hard,Binary Search,Find the peak element (an element greater than its neighbors) in an unsorted array using binary search.
+46,hard,Binary Search,"Determine if an array is bitonic (first increasing, then decreasing) using binary search."
+47,hard,Binary Search,Find the square root of a given number using binary search.
+48,hard,Depth-First Search (DFS),Finding connected components in an undirected graph using DFS.
+49,hard,Depth-First Search (DFS),Implementing a recursive DFS algorithm to traverse a binary tree.
+50,hard,Depth-First Search (DFS),Determining if a directed graph contains a cycle using DFS.

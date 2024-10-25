@@ -1,0 +1,67 @@
+Size,prompt_name,prompt,Function,Min,Average,Max,Minimum Average,Percentage
+1000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,0.0485779,0.052815345,0.0587745,,
+10000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,0.6562693,0.697526207,0.7713445,,
+100000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,40.2670163,44.47332175,104.7236946,,
+1000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.80E-06,0.067331577,0.1624107,,
+10000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0012904,0.923145734,7.7547467,,
+100000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.1977286,5.40782755,5.6510891,,
+1000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.70E-06,0.077680273,0.1996578,,
+10000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0013017,1.011721621,2.8928713,,
+100000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.2805275,5.615700483,6.1806477,,
+1000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.60E-06,0.073946946,0.1516688,,
+10000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0012393,0.946840973,1.4825496,,
+100000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.140853,5.311286905,5.749864,,
+1000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,8.00E-06,0.064584616,0.1150488,,
+10000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0013263,0.859642657,1.2499479,,
+100000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.1095531,5.235320558,5.8221234,,
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,7.60E-06,0.059095119,1.0716759,,
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,1.29E-05,1.075250488,11.0988642,,
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,1.28E-05,3.859000159,5.2837144,,
+1000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.60E-06,0.068292436,0.1407196,,
+10000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.60E-06,0.900496392,1.5019767,,
+100000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.70E-06,3.182716451,6.055703,,

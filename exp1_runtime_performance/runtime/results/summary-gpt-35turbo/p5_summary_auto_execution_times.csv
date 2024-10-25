@@ -1,0 +1,70 @@
+Size,prompt_name,prompt,Function,Min,Average,Max,Minimum Average,Percentage
+1000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.0037422,0.003894024,0.0040776,0.003894024,0
+10000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.099904,0.1057168,0.1243476,0.047116687,124.3723121
+100000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,1.5288869,1.6048094,1.7779767,1.6048094,0
+1000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0031853,0.14843427,0.4549122,0.003894024,3711.847847
+10000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0393282,216.0307692,600,0.047116687,458401.6115
+100000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.646268,216.68189,600,1.6048094,13402.0327
+1000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0031846,0.008203586,0.4206297,0.003894024,110.671172
+10000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0392418,6.107128772,600,0.047116687,12861.71094
+100000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.6550078,6.870503131,600,1.6048094,328.1195718
+1000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0031795,0.004090889,0.010739,0.003894024,5.055567197
+10000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0391835,0.047116687,0.1046794,0.047116687,0
+100000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.6541779,6.835150737,600,1.6048094,325.9166688
+1000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0031766,0.008728772,0.4346407,0.003894024,124.1581459
+10000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.0390521,6.111841964,600,0.047116687,12871.71417
+100000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list_strategy,0.6473247,6.93075131,600,1.6048094,331.8737982
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list_strategy,0.0031759,0.072602804,1.1099036,0.003894024,1764.467297
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list_strategy,0.0391403,54.59849625,600,0.047116687,115779.3195
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list_strategy,0.6477746,67.51633381,600,1.6048094,4107.124772
+1000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list_strategy,0.003182,0.08644533,2.1673723,0.003894024,2119.948567
+10000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list_strategy,0.0391235,20.57007876,600,0.047116687,43557.73587
+100000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list_strategy,0.6494652,21.33193136,600,1.6048094,1229.25015
+1000,prompt_7,ENSEMBLE_p2-p6,p5_find_duplicates_list_strategy,0.0031833,0.004417609,0.013266,0.003894024,13.4458596
+10000,prompt_7,ENSEMBLE_p2-p6,p5_find_duplicates_list_strategy,0.0391582,0.049695485,0.0834954,0.047116687,5.473215891
+100000,prompt_7,ENSEMBLE_p2-p6,p5_find_duplicates_list_strategy,0.6515619,6.905781464,600,1.6048094,330.3178598

@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.0037422,0.003894024,0.0040776,,
+10000,human solution,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.099904,0.1057168,0.1243476,,
+100000,human solution,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,1.5288869,1.6048094,1.7779767,,

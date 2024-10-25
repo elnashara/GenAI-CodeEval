@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Quicksort with Python""",p7_quicksort_strategy,0.0485779,0.052815345,0.0587745,,
+10000,human solution,"""Quicksort with Python""",p7_quicksort_strategy,0.6562693,0.697526207,0.7713445,,
+100000,human solution,"""Quicksort with Python""",p7_quicksort_strategy,40.2670163,44.47332175,104.7236946,,

@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.001105,0.001178892,0.0015958,,
+10000,human solution,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.0306974,0.032139507,0.0378839,,
+100000,human solution,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.55479919,0.58111297,0.6166734,,

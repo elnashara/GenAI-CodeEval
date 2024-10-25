@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.0002219,0.000235318,0.0004811,,
+10000,human solution,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.0020993,0.002217869,0.002869,,
+100000,human solution,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.1127556,0.129766086,0.1421572,,

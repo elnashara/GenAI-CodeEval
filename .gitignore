@@ -1,0 +1,14 @@
+
+exp1_runtime_performance/code_generator/api_key
+*.pyc
+exp2_autogen/AutoGen/api_key
+exp2_autogen/ChatGPT/api_key
+exp2_autogen/ChatGPT/backup/computer_science_problems(version 1).csv
+exp2_autogen/ChatGPT/backup/computer_science_problems.csv
+exp2_autogen/ChatGPT/backup/computer_science_problems_easy_phase1.csv
+exp2_autogen/ChatGPT/backup/openai_app.py
+exp2_autogen/ChatGPT/backup/plot_result.py
+exp2_autogen/ChatGPT/backup/Prompt1_OpenAI_NaiveApproach.csv
+exp2_autogen/ChatGPT/backup/test - Copy.py
+exp2_autogen/ChatGPT/backup/test.py
+graph_approaches.py

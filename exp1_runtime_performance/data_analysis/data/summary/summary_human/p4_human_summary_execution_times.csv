@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,0.013736,0.0144197,0.0153683,,
+10000,human solution,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,0.1516778,0.161852917,0.1876067,,
+100000,human solution,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,2.3430463,2.447732568,2.5637543,,

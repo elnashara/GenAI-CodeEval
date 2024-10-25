@@ -1,0 +1,4 @@
+Size,prompt_name,,Function,Min,Average,Max,Minimum Average,Percentage
+1000,human solution,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.0028971,0.003000504,0.0032384,,
+10000,human solution,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.0288276,0.030248645,0.033454,,
+100000,human solution,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.3758017,0.388259009,0.4038037,,

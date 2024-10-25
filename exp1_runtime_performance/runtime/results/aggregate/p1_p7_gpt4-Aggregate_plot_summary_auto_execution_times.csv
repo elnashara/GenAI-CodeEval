@@ -1,0 +1,463 @@
+Size,prompt_name,prompt,Function,Min,Average,Max,Minimum Average,Percentage
+1000,prompt_human,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.0028971,0.003000504,0.0032384,0.000364751,722.617073
+10000,prompt_human,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.0288276,0.030248645,0.033454,0.003496633,765.0792062
+100000,prompt_human,"""Quickest way to find missing number in an array of numbers.""",p1_find_missing_number,0.3758017,0.388259009,0.4038037,0.079610553,387.6979174
+1000,prompt_1,"""Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.50E-06,0.001699639,0.0850482,0.000364751,365.9724031
+10000,prompt_1,"""Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.60E-06,0.013364598,0.750229,0.003496633,282.2133464
+100000,prompt_1,"""Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.70E-06,0.136041636,0.9748135,0.079610553,70.88392289
+1000,prompt_2,"""Quickest way to find missing number in an array of numbers. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0002114,0.000720899,0.0060533,0.000364751,97.64140468
+10000,prompt_2,"""Quickest way to find missing number in an array of numbers. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0019571,0.007409255,0.0643934,0.003496633,111.8968448
+100000,prompt_2,"""Quickest way to find missing number in an array of numbers. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0640471,0.160153932,2.3259033,0.079610553,101.1717366
+1000,prompt_3,"""Quickest way to find missing number in an array of numbers. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0002116,0.00086645,0.0065882,0.000364751,137.5456133
+10000,prompt_3,"""Quickest way to find missing number in an array of numbers. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0019667,0.008488501,0.0617596,0.003496633,142.7621372
+100000,prompt_3,"""Quickest way to find missing number in an array of numbers. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,0.0384976,0.157484854,1.168303,0.079610553,97.81906803
+1000,prompt_4,"""Quickest way to find missing number in an array of numbers. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.50E-06,0.000654891,0.0058307,0.000364751,79.54467568
+10000,prompt_4,"""Quickest way to find missing number in an array of numbers. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.80E-06,0.006347345,0.0543223,0.003496633,81.52734359
+100000,prompt_4,"""Quickest way to find missing number in an array of numbers. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p1_find_missing_number,6.70E-06,0.119399858,0.7886724,0.079610553,49.97993796
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p1_find_missing_number,4.38E-05,0.001345259,0.0776843,0.000364751,268.8157126
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p1_find_missing_number,6.07E-05,0.012903616,0.7320524,0.003496633,269.0297495
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quickest way to find missing number in an array of numbers. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p1_find_missing_number,7.46E-05,0.119450877,0.9093441,0.079610553,50.04402369
+1000,prompt_6,""""""" How can we approach the problem of Quickest way to find missing number in an array of numbers. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quickest way to find missing number in an array of numbers.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quickest way to find missing number in an array of numbers. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p1_find_missing_number,0.0002119,0.000364751,0.0046513,0.000364751,0
+10000,prompt_6,""""""" How can we approach the problem of Quickest way to find missing number in an array of numbers. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quickest way to find missing number in an array of numbers.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quickest way to find missing number in an array of numbers. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p1_find_missing_number,0.0019531,0.003496633,0.0422755,0.003496633,0
+100000,prompt_6,""""""" How can we approach the problem of Quickest way to find missing number in an array of numbers. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quickest way to find missing number in an array of numbers.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quickest way to find missing number in an array of numbers. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p1_find_missing_number,0.04196,0.079610553,0.4005332,0.079610553,0
+1000,prompt_human,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.0002219,0.000235318,0.0004811,0.000235318,0
+10000,prompt_human,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.0020993,0.002217869,0.002869,0.002217869,0
+100000,prompt_human,"""Find the Duplicate Number.""",p2_find_duplicate_number,0.1127556,0.129766086,0.1421572,0.129766086,0
+1000,prompt_1,"""Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.001154,0.007868507,0.4658672,0.000235318,3243.776082
+10000,prompt_1,"""Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.0050459,0.02960748,1.6719427,0.002217869,1234.951704
+100000,prompt_1,"""Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.0042443,0.438120615,1.0457702,0.129766086,237.6233564
+1000,prompt_2,"""Find the Duplicate Number. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,1.25E-05,0.002146342,0.006705,0.000235318,812.1027716
+10000,prompt_2,"""Find the Duplicate Number. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,1.56E-05,0.00907496,0.0645824,0.002217869,309.1747529
+100000,prompt_2,"""Find the Duplicate Number. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,1.80E-05,0.18589746,0.7899149,0.129766086,43.25581185
+1000,prompt_3,"""Find the Duplicate Number. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.0002135,0.002093921,0.0066737,0.000235318,789.8261077
+10000,prompt_3,"""Find the Duplicate Number. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.0019733,0.009212635,0.2614927,0.002217869,315.3822881
+100000,prompt_3,"""Find the Duplicate Number. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,0.0040679,0.182062161,20.9935308,0.129766086,40.30026381
+1000,prompt_4,"""Find the Duplicate Number. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,2.05E-05,0.010456734,0.4385222,0.000235318,4343.660918
+10000,prompt_4,"""Find the Duplicate Number. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,1.99E-05,0.010426812,0.0562975,0.002217869,370.1274963
+100000,prompt_4,"""Find the Duplicate Number. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p2_find_duplicate_number,2.19E-05,0.20252742,0.7405096,0.129766086,56.0711479
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p2_find_duplicate_number,1.17E-05,0.003035362,0.1308907,0.000235318,1189.897925
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p2_find_duplicate_number,1.04E-05,0.023074903,1.4485272,0.002217869,940.4087437
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Find the Duplicate Number. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p2_find_duplicate_number,1.10E-05,0.211940935,0.7299035,0.129766086,63.32536607
+1000,prompt_6,""""""" How can we approach the problem of Find the Duplicate Number. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Find the Duplicate Number.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Find the Duplicate Number. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p2_find_duplicate_number,6.50E-06,0.006452558,0.4541302,0.000235318,2642.058831
+10000,prompt_6,""""""" How can we approach the problem of Find the Duplicate Number. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Find the Duplicate Number.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Find the Duplicate Number. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p2_find_duplicate_number,6.70E-06,0.010834717,0.0479055,0.002217869,388.5192498
+100000,prompt_6,""""""" How can we approach the problem of Find the Duplicate Number. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Find the Duplicate Number.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Find the Duplicate Number. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p2_find_duplicate_number,6.50E-06,0.336393031,0.6262345,0.129766086,159.2303131
+1000,prompt_human,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,0.0036634,0.003992622,0.0057573,0.003992622,0
+10000,prompt_human,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,0.0342467,0.037707406,0.051,0.037707406,0
+100000,prompt_human,"""Python algorithm to find the indexes of the k smallest number in an unsorted array?""",p3_find_n_smallest_number,1.1863484,1.2286353,1.3007044,0.573342795,114.2933182
+1000,prompt_1,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0023887,0.007971168,0.0427132,0.003992622,99.64744972
+10000,prompt_1,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0240464,0.111955773,0.2695205,0.037707406,196.9065891
+100000,prompt_1,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.2442849,1.587359794,5.9642939,0.573342795,176.8605113
+1000,prompt_2,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0022535,0.006345176,0.0663535,0.003992622,58.92253261
+10000,prompt_2,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0217844,0.07167582,0.6275087,0.037707406,90.08419725
+100000,prompt_2,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.1567702,0.793031825,5.7622018,0.573342795,38.31722172
+1000,prompt_3,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0022529,0.005423955,0.0290018,0.003992622,35.84944931
+10000,prompt_3,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0217544,0.055021853,0.3473799,0.037707406,45.91789475
+100000,prompt_3,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.1559274,0.577525652,3.1365408,0.573342795,0.729556042
+1000,prompt_4,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0022968,0.020010381,1.5327987,0.003992622,401.1839588
+10000,prompt_4,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.0217816,0.051692013,0.2005619,0.037707406,37.08716267
+100000,prompt_4,"""Python algorithm to find the indexes of the k smallest number in an unsorted array? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p3_find_n_smallest_number,0.156921,0.573342795,2.2638299,0.573342795,0
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p3_find_n_smallest_number,0.0022623,0.009678386,0.1246162,0.003992622,142.4067693
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p3_find_n_smallest_number,0.0218902,0.116778031,1.2335834,0.037707406,209.6952121
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Python algorithm to find the indexes of the k smallest number in an unsorted array? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p3_find_n_smallest_number,0.155798,1.289552467,5.0324819,0.573342795,124.9182301
+1000,prompt_6,""""""" How can we approach the problem of Python algorithm to find the indexes of the k smallest number in an unsorted array? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Python algorithm to find the indexes of the k smallest number in an unsorted array?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Python algorithm to find the indexes of the k smallest number in an unsorted array? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p3_find_n_smallest_number,6.90E-06,0.005442697,0.0704598,0.003992622,36.31886515
+10000,prompt_6,""""""" How can we approach the problem of Python algorithm to find the indexes of the k smallest number in an unsorted array? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Python algorithm to find the indexes of the k smallest number in an unsorted array?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Python algorithm to find the indexes of the k smallest number in an unsorted array? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p3_find_n_smallest_number,7.00E-06,0.061168215,0.5714483,0.037707406,62.21804014
+100000,prompt_6,""""""" How can we approach the problem of Python algorithm to find the indexes of the k smallest number in an unsorted array? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Python algorithm to find the indexes of the k smallest number in an unsorted array?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Python algorithm to find the indexes of the k smallest number in an unsorted array? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p3_find_n_smallest_number,7.00E-06,0.666132467,3.2118378,0.573342795,16.18397803
+1000,prompt_human,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,0.013736,0.0144197,0.0153683,0.007017386,105.4853474
+10000,prompt_human,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,0.1516778,0.161852917,0.1876067,0.074018822,118.6645405
+100000,prompt_human,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)""",p4_count_pairs_with_given_sum,2.3430463,2.447732568,2.5637543,1.144596827,113.8510705
+1000,prompt_1,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0042403,0.007043351,0.0173065,0.007017386,0.370009573
+10000,prompt_1,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0526791,0.074605667,0.1745283,0.074018822,0.792832126
+100000,prompt_1,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.6671126,1.15469873,6.3098014,1.144596827,0.882573039
+1000,prompt_2,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0042329,0.007299728,0.0298273,0.007017386,4.023464008
+10000,prompt_2,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0525099,0.076602615,0.1533699,0.074018822,3.490724292
+100000,prompt_2,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.8161896,1.178689014,2.2978182,1.144596827,2.97853237
+1000,prompt_3,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0042838,0.007713719,0.0311137,0.007017386,9.922968467
+10000,prompt_3,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0521118,0.080311133,0.2048543,0.074018822,8.500960742
+100000,prompt_3,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.8263265,1.223422017,2.3831838,1.144596827,6.886720996
+1000,prompt_4,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0043755,0.007251859,0.0204328,0.007017386,3.341315413
+10000,prompt_4,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.0544219,0.077006172,0.7842698,0.074018822,4.035932914
+100000,prompt_4,"""Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""",p4_sum_array_pairs,0.8262337,1.234173959,10.1790039,1.144596827,7.826085997
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p4_sum_array_pairs,0.0009066,0.007017386,0.0161693,0.007017386,0
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p4_sum_array_pairs,0.0026906,0.074018822,0.1710861,0.074018822,0
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..""""""",p4_sum_array_pairs,0.0095346,1.144596827,2.4438563,1.144596827,0
+1000,prompt_6,""""""" How can we approach the problem of Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p4_sum_array_pairs,0.0012504,0.007049907,0.0171825,0.007017386,0.463434675
+10000,prompt_6,""""""" How can we approach the problem of Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p4_sum_array_pairs,0.0039038,0.074667497,0.1656195,0.074018822,0.876364933
+100000,prompt_6,""""""" How can we approach the problem of Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!)? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Count pairs of elements in an array whose sum equals a given sum (but) do it in a single iteration(!) in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a first argument and ""arg2"" as a second argument as a parameters...""""""",p4_sum_array_pairs,0.0128641,1.145617563,2.411615,1.144596827,0.08917865
+1000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.0037422,0.003894024,0.0040776,0.003894024,0
+10000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,0.099904,0.1057168,0.1243476,0.046801924,125.8813121
+100000,prompt_human,"""How do I find the duplicates in a list and create another list with them?""",p5_find_duplicates_list_strategy,1.5288869,1.6048094,1.7779767,0.865034844,85.51962515
+1000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0031756,0.787666284,8.3881634,0.003894024,20127.56624
+10000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0387086,0.046801924,0.0733869,0.046801924,0
+100000,prompt_1,"""How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.6491201,2.230205099,6.3934217,0.865034844,157.8167937
+1000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0031927,0.049939147,0.4329572,0.003894024,1182.456066
+10000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0386479,0.047282471,0.0977595,0.046801924,1.026767618
+100000,prompt_2,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.6477804,0.865034844,4.7925499,0.865034844,0
+1000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0031922,0.033265849,0.4751995,0.003894024,754.2795062
+10000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0386042,0.047558372,0.1203775,0.046801924,1.616275433
+100000,prompt_3,"""How do I find the duplicates in a list and create another list with them? The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.6631965,0.90456816,4.6739294,0.865034844,4.570141454
+1000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0031961,0.060520573,3.3628875,0.003894024,1454.191063
+10000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.0387199,0.047792639,0.0939431,0.046801924,2.116825368
+100000,prompt_4,"""How do I find the duplicates in a list and create another list with them? The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p5_find_duplicates_list,0.6660349,1.002715779,5.5466917,0.865034844,15.91622996
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list,0.0031815,0.008742735,0.4344843,0.003894024,124.516721
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list,0.0388991,0.051149908,0.2529725,0.046801924,9.290182173
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: How do I find the duplicates in a list and create another list with them? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p5_find_duplicates_list,0.6531758,1.736119237,6.6067643,0.865034844,100.6993417
+1000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list,0.0031799,0.021423498,1.1178802,0.003894024,450.1634813
+10000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list,0.0386794,0.049651209,0.2424003,0.046801924,6.087965529
+100000,prompt_6,""""""" How can we approach the problem of How do I find the duplicates in a list and create another list with them? with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to How do I find the duplicates in a list and create another list with them?? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to How do I find the duplicates in a list and create another list with them? in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p5_find_duplicates_list,0.6572872,2.134844727,8.5329994,0.865034844,146.7929173
+1000,prompt_human,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.001105,0.001178892,0.0015958,0.001178892,0
+10000,prompt_human,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.0306974,0.032139507,0.0378839,0.032020995,0.370107175
+100000,prompt_human,"""Removing duplicates in lists""",p6_removing_duplicates_strategy,0.55479919,0.58111297,0.6166734,0.58111297,0
+1000,prompt_1,"""Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0009211,0.051478414,2.0957292,0.001178892,4266.677694
+10000,prompt_1,"""Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0238911,0.032846919,0.126445,0.032020995,2.579320224
+100000,prompt_1,"""Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.5250792,0.871641608,5.479438,0.58111297,49.99520799
+1000,prompt_2,"""Removing duplicates in lists. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0009222,0.004852011,0.2414549,0.001178892,311.5738337
+10000,prompt_2,"""Removing duplicates in lists. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0239156,0.033255796,0.180462,0.032020995,3.856223081
+100000,prompt_2,"""Removing duplicates in lists. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.5263808,0.62631104,1.417483,0.58111297,7.777845674
+1000,prompt_3,"""Removing duplicates in lists. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0009185,0.00624651,0.28761,0.001178892,429.8627864
+10000,prompt_3,"""Removing duplicates in lists. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0238438,0.033935422,0.1072287,0.032020995,5.978661812
+100000,prompt_3,"""Removing duplicates in lists. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.5331647,0.628784074,1.311189,0.58111297,8.203414217
+1000,prompt_4,"""Removing duplicates in lists. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0009183,0.001617444,0.0100945,0.001178892,37.20035423
+10000,prompt_4,"""Removing duplicates in lists. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.0239355,0.032020995,0.0936808,0.032020995,0
+100000,prompt_4,"""Removing duplicates in lists. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p6_removing_duplicates,0.5315357,0.610471739,1.3381235,0.58111297,5.052162061
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p6_removing_duplicates,0.0009272,0.016011092,0.2550516,0.001178892,1258.147481
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p6_removing_duplicates,0.0240964,0.036844827,0.0933892,0.032020995,15.06459122
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Removing duplicates in lists. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p6_removing_duplicates,0.536116,0.65065743,1.4092379,0.58111297,11.96745961
+1000,prompt_6,""""""" How can we approach the problem of Removing duplicates in lists. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Removing duplicates in lists.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Removing duplicates in lists. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p6_removing_duplicates,0.0006727,0.001623097,0.0131626,0.001178892,37.67987229
+10000,prompt_6,""""""" How can we approach the problem of Removing duplicates in lists. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Removing duplicates in lists.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Removing duplicates in lists. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p6_removing_duplicates,0.0009147,0.034278774,0.1494746,0.032020995,7.050933302
+100000,prompt_6,""""""" How can we approach the problem of Removing duplicates in lists. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Removing duplicates in lists.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Removing duplicates in lists. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p6_removing_duplicates,0.0035631,0.600895326,1.3013238,0.58111297,3.404218632
+1000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,0.0485779,0.052815345,0.0587745,0.052815345,0
+10000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,0.6562693,0.697526207,0.7713445,0.697526207,0
+100000,prompt_human,"""Quicksort with Python""",p7_quicksort_strategy,40.2670163,44.47332175,104.7236946,3.182716451,1297.338482
+1000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.80E-06,0.067331577,0.1624107,0.052815345,27.48487584
+10000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0012904,0.923145734,7.7547467,0.697526207,32.34567028
+100000,prompt_1,"""Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.1977286,5.40782755,5.6510891,3.182716451,69.91232594
+1000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.70E-06,0.077680273,0.1996578,0.052815345,47.07898434
+10000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0013017,1.011721621,2.8928713,0.697526207,45.04424505
+100000,prompt_2,"""Quicksort with Python. The implementation should be fast. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.2805275,5.615700483,6.1806477,3.182716451,76.44363139
+1000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,7.60E-06,0.073946946,0.1516688,0.052815345,40.01034358
+10000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0012393,0.946840973,1.4825496,0.697526207,35.74270952
+100000,prompt_3,"""Quicksort with Python. The implementation should be fast as the size of the list grows. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.140853,5.311286905,5.749864,3.182716451,66.87904772
+1000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,8.00E-06,0.064584616,0.1150488,0.052815345,22.28380975
+10000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,0.0013263,0.859642657,1.2499479,0.697526207,23.24162854
+100000,prompt_4,"""Quicksort with Python. The implementation should have the most optimal time complexity possible. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""",p7_quicksort,5.1095531,5.235320558,5.8221234,3.182716451,64.49220779
+1000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,7.60E-06,0.059095119,1.0716759,0.052815345,11.89005582
+10000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,1.29E-05,1.075250488,11.0988642,0.697526207,54.15198414
+100000,prompt_5,"""""""Please explain your chain of thought to create a solution to the problem: Quicksort with Python. The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+First, explain your chain of thought.
+Then, provide a step by step description of the algorithm with the best possible time complexity to solve the task.
+Then, describe how to implement the algorithm step by step in the fastest possible way.
+Finally, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..""""""",p7_quicksort,1.28E-05,3.859000159,5.2837144,3.182716451,21.24863205
+1000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.60E-06,0.068292436,0.1407196,0.052815345,29.30415583
+10000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.60E-06,0.900496392,1.5019767,0.697526207,29.09857479
+100000,prompt_6,""""""" How can we approach the problem of Quicksort with Python. with a time complexity O(1) runtime? The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter..
+We can follow the steps below in our chain of thought:
+1)	What is the problem statement?
+2)	What is the naive approach to Quicksort with Python.? What is its time complexity?
+3)	Can we improve the time complexity to O(1)? If yes, how?
+4)	Can you provide an algorithm to Quicksort with Python. in O(1) time complexity?
+5)	Can you explain how the algorithm works step by step?
+6)	Are there any edge cases that need to be considered for the algorithm to work correctly?
+7)	Can you provide an example to demonstrate how the algorithm works?
+8)	How does the O(1) algorithm compare to other algorithms in terms of time?
+9)	Can you think of any potential limitations or drawbacks of the O(1) algorithm?
+10)	Then, describe how to implement the algorithm step by step in the fastest possible way in Python, The Python implementation should be in a function named ""funcImp"" that takes a single list of integers named ""arg1"" as a parameter...""""""",p7_quicksort,6.70E-06,3.182716451,6.055703,3.182716451,0

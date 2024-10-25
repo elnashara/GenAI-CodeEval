@@ -1,0 +1,4 @@
+index,category,problem_type,problem,solution_prompt,solution,test_input,expected_output,actual_output,status
+0,,,,,,"{'A': ['B'], 'B': ['C', 'D'], 'C': ['E'], 'D': [], 'E': ['F'], 'F': []}",False,False,PASS
+1,,,,,,"{'A': ['B'], 'B': ['C', 'D'], 'C': ['E', 'A'], 'D': [], 'E': ['F'], 'F': []}",True,True,PASS
+2,,,,,,"{'A': ['B'], 'B': ['C', 'D'], 'C': ['E'], 'D': [], 'E': ['F', 'B'], 'F': []}",True,True,PASS
