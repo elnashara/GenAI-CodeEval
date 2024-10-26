@@ -120,6 +120,9 @@ class GPT4oProblemAnalysis:
         category_analysis = self.document_df.groupby(['problem_type', 'category'])['status'].value_counts().unstack().fillna(0)
         category_analysis = category_analysis.rename(columns={'PASS': 'Success', 'FAIL': 'Failure'})
 
+        # Modify the labels to remove parentheses
+        category_labels = [f"{problem_type}, {category}" for problem_type, category in category_analysis.index]
+
         # Plotting the new graph
         plt.figure(figsize=(10, 6))
         category_analysis.plot(kind='bar', stacked=False, figsize=(10, 6))
@@ -128,11 +131,14 @@ class GPT4oProblemAnalysis:
         plt.title('GPT-4o Success and Failure Analysis by Problem Type and Category', fontsize=20)
         plt.xlabel('Problem Type and Category', fontsize=20)
         plt.ylabel('Number of Test Cases', fontsize=20)
-        plt.xticks(rotation=45, ha='right', fontsize=20)
+        
+        # Applying updated labels to x-axis
+        plt.xticks(ticks=range(len(category_labels)), labels=category_labels, rotation=45, ha='right', fontsize=20)
         plt.yticks(fontsize=20)
 
         plt.tight_layout()
         plt.show()
+
 
 # Example usage:
 if __name__ == "__main__":
