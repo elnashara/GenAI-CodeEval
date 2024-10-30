@@ -236,5 +236,13 @@ problem_number, index, category, problem_type, problem, solution_prompt, solutio
 ```
 
 ## License
+This project is licensed under the terms of the custom license by the Department of Computer Science, Vanderbilt University.
 
-This project is licensed under the Vanderbilt License. See the [LICENSE](LICENSE) file for details.
+The material in this repository is provided for educational purposes only. Any use, distribution, or reproduction of the material in this repository is prohibited without the express written permission of the Department of Computer Science, Vanderbilt University.
+
+The material in this repository is not intended for commercial use. If you are interested in using the material in this repository for commercial purposes, please contact the Department of Computer Science, Vanderbilt University.
+
+By accessing this repository, you agree to comply with these terms.
+
+## Acknowledgements
+We would like to extend our gratitude to OpenAI for providing the ChatGPT model, and to the Stack Overflow community for the programming problems used in this project.
