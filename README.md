@@ -205,7 +205,7 @@ The results of the evaluations will be logged in CSV files in the `results` dire
 - Problem descriptions
 - Generated code solutions
 - Input and output for each test case
-- Runtime performance statistics
+- Status of each test case
 
 ### Example output files (Experiment 2):
 - `1_Prompt1_ChatGPT4o_NaiveApproach.csv`
